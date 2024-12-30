@@ -10,7 +10,7 @@ To maintain client confidentiality, all client names are anonymized (e.g., "Comp
 ---
 
 ## Features
-- **Dynamic Summary**:
+- **Dynamic Summary Using Pivot Tables**:
   - Automatically updates to provide real-time statistics and metrics.
   - Requires no manual updates to the Summary tab.
   
