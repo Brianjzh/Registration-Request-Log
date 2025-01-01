@@ -22,6 +22,12 @@ To maintain client confidentiality, all client names are anonymized (e.g., "Comp
   - Immediate updates and insights in the Summary tab.
 
 ---
+## Key Visualization:
+
+### Dashboard
+![Dashboard](Dashboard)
+
+---
 
 ## Instructions for Use
 1. Open the Excel file.
